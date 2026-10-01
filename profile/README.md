@@ -202,49 +202,49 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
   <tr>
     <td align="center" width="25%">
       <img
-        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-vishwa.jpeg"
+        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-vishwa.png"
         width="96"
         height="96"
         alt="Vishwa Pramudhitha"
       />
       <br /><br />
-      <strong>Vishwa Pramudhitha</strong>
+      <strong>Vishwa<br />Pramudhitha</strong>
       <br />
       <img src="https://img.shields.io/badge/Co--Founder-7c3aed?style=flat-square" alt="Co-Founder" />
     </td>
     <td align="center" width="25%">
       <img
-        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-hasitha.jpeg"
+        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-hasitha.png"
         width="96"
         height="96"
         alt="Hasitha Sandekalum"
       />
       <br /><br />
-      <strong>Hasitha Sandekalum</strong>
+      <strong>Hasitha<br />Sandekalum</strong>
       <br />
       <img src="https://img.shields.io/badge/Co--Founder-7c3aed?style=flat-square" alt="Co-Founder" />
     </td>
     <td align="center" width="25%">
       <img
-        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-dasindu.jpeg"
+        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-dasindu.png"
         width="96"
         height="96"
-        alt="Dasindu Dilvan"
+        alt="Dilvan Wijethunga"
       />
       <br /><br />
-      <strong>Dasindu Dilvan</strong>
+      <strong>Dilvan<br />Wijethunga</strong>
       <br />
       <img src="https://img.shields.io/badge/Co--Founder-7c3aed?style=flat-square" alt="Co-Founder" />
     </td>
     <td align="center" width="25%">
       <img
-        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-amjad.jpeg"
+        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-amjad.png"
         width="96"
         height="96"
         alt="Amjad Hassan"
       />
       <br /><br />
-      <strong>Amjad Hassan</strong>
+      <strong>Amjad<br />Hassan</strong>
       <br />
       <img src="https://img.shields.io/badge/Co--Founder-7c3aed?style=flat-square" alt="Co-Founder" />
     </td>

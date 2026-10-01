@@ -346,9 +346,9 @@ This GitHub organization is where we collaborate, develop, document, and maintai
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/logo-dark1.png">
-  <img width="56" alt="Ektazept logo" src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/logo-light1.png">
+  <img width="200" alt="Ektazept logo" src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/logo-light1.png">
 </picture>
 
-**Built by the Ektazept team.** ⚡
+**Built by the Ektazept team.** 
 
 </div>

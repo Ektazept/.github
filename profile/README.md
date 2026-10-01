@@ -202,7 +202,7 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
   <tr>
     <td align="center" width="25%">
       <img
-        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-vishwa.png"
+        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/vishwa.png"
         width="96"
         height="96"
         alt="Vishwa Pramudhitha"
@@ -214,7 +214,7 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
     </td>
     <td align="center" width="25%">
       <img
-        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-hasitha.png"
+        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/hasitha.png"
         width="96"
         height="96"
         alt="Hasitha Sandekalum"
@@ -226,7 +226,7 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
     </td>
     <td align="center" width="25%">
       <img
-        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-dasindu.png"
+        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/dilvan.png"
         width="96"
         height="96"
         alt="Dilvan Wijethunga"
@@ -238,7 +238,7 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
     </td>
     <td align="center" width="25%">
       <img
-        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/ektazept-amjad.png"
+        src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/amjad.png"
         width="96"
         height="96"
         alt="Amjad Hassan"

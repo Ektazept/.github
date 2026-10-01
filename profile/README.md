@@ -11,7 +11,11 @@
 
 <div align="center">
 
-<img width="100%" alt="Ektazept: Useful software, simply built." src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563eb,100:7c3aed&text=Ektazept&fontColor=ffffff&fontSize=68&fontAlignY=38&desc=Useful%20software%2C%20simply%20built.&descSize=22&descAlignY=60" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/banner-light.png">
+  <img width="100%" alt="Ektazept: Useful software, simply built." src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/banner-light.png">
+</picture>
 
 **Ektazept is an early-stage software and SaaS startup building practical digital products and services.**<br />
 Four Co-Founders. One goal: software that is clear, reliable, and genuinely helpful.
@@ -198,7 +202,7 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
   <tr>
     <td align="center" width="25%">
       <br />
-      <img src="https://ui-avatars.com/api/?name=Vishwa+Pramudhitha&size=160&background=2563eb&color=ffffff&bold=true&rounded=true&font-size=0.36" width="96" alt="Vishwa Pramudhitha" />
+      <img src="https://wsrv.nl/?url=raw.githubusercontent.com/TODO_ORG_NAME/.github/main/profile/assets/ektazept-vishwa.jpeg&w=192&h=192&fit=cover&mask=circle&output=png" width="96" height="96" alt="Vishwa Pramudhitha" />
       <br /><br />
       <strong>Vishwa Pramudhitha</strong>
       <br />
@@ -207,7 +211,7 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
     </td>
     <td align="center" width="25%">
       <br />
-      <img src="https://ui-avatars.com/api/?name=Hasitha+Sandekalum&size=160&background=7c3aed&color=ffffff&bold=true&rounded=true&font-size=0.36" width="96" alt="Hasitha Sandekalum" />
+      <img src="https://wsrv.nl/?url=raw.githubusercontent.com/TODO_ORG_NAME/.github/main/profile/assets/ektazept-hasitha.jpeg&w=192&h=192&fit=cover&mask=circle&output=png" width="96" height="96" alt="Hasitha Sandekalum" />
       <br /><br />
       <strong>Hasitha Sandekalum</strong>
       <br />
@@ -216,16 +220,16 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
     </td>
     <td align="center" width="25%">
       <br />
-      <img src="https://ui-avatars.com/api/?name=Dilvan+Wijethunga&size=160&background=0891b2&color=ffffff&bold=true&rounded=true&font-size=0.36" width="96" alt="Dilvan Wijethunga" />
+      <img src="https://wsrv.nl/?url=raw.githubusercontent.com/TODO_ORG_NAME/.github/main/profile/assets/ektazept-dasindu.jpeg&w=192&h=192&fit=cover&mask=circle&output=png" width="96" height="96" alt="Dasindu Dilvan" />
       <br /><br />
-      <strong>Dilvan Wijethunga</strong>
+      <strong>Dasindu Dilvan</strong>
       <br />
       <img src="https://img.shields.io/badge/Co--Founder-7c3aed?style=flat-square" alt="Co-Founder" />
       <br /><br />
     </td>
     <td align="center" width="25%">
       <br />
-      <img src="https://ui-avatars.com/api/?name=Amjad+Hassan&size=160&background=4f46e5&color=ffffff&bold=true&rounded=true&font-size=0.36" width="96" alt="Amjad Hassan" />
+      <img src="https://wsrv.nl/?url=raw.githubusercontent.com/TODO_ORG_NAME/.github/main/profile/assets/ektazept-amjad.jpeg&w=192&h=192&fit=cover&mask=circle&output=png" width="96" height="96" alt="Amjad Hassan" />
       <br /><br />
       <strong>Amjad Hassan</strong>
       <br />
@@ -328,8 +332,11 @@ This GitHub organization is where we collaborate, develop, document, and maintai
 
 <div align="center">
 
-**Built by the Ektazept team.** ⚡
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/logo-dark.png">
+  <img width="56" alt="Ektazept logo" src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/logo-light.png">
+</picture>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:7c3aed,100:2563eb" />
+**Built by the Ektazept team.** ⚡
 
 </div>

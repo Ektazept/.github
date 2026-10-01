@@ -335,7 +335,7 @@ This GitHub organization is where we collaborate, develop, document, and maintai
 
 <a href="TODO_WEBSITE_URL"><img alt="Website" src="https://img.shields.io/badge/Website-Visit%20us-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:ektazept@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Email%20us-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="TODO_LINKEDIN_URL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Follow%20us-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/company/ektazept/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Follow%20us-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Ektazept"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow%20us-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
@@ -345,8 +345,8 @@ This GitHub organization is where we collaborate, develop, document, and maintai
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/logo-dark.png">
-  <img width="56" alt="Ektazept logo" src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/logo-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/logo-dark1.png">
+  <img width="56" alt="Ektazept logo" src="https://raw.githubusercontent.com/Ektazept/.github/main/profile/assets/logo-light1.png">
 </picture>
 
 **Built by the Ektazept team.** ⚡

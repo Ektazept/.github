@@ -209,7 +209,7 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
       />
       <br /><br />
       <strong>Vishwa<br />Pramudhitha</strong>
-      <br />
+      <br /><br />
       <img src="https://img.shields.io/badge/Co--Founder-7c3aed?style=flat-square" alt="Co-Founder" />
     </td>
     <td align="center" width="25%">
@@ -221,7 +221,7 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
       />
       <br /><br />
       <strong>Hasitha<br />Sandekalum</strong>
-      <br />
+      <br /><br />
       <img src="https://img.shields.io/badge/Co--Founder-7c3aed?style=flat-square" alt="Co-Founder" />
     </td>
     <td align="center" width="25%">
@@ -233,7 +233,7 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
       />
       <br /><br />
       <strong>Dilvan<br />Wijethunga</strong>
-      <br />
+      <br /><br />
       <img src="https://img.shields.io/badge/Co--Founder-7c3aed?style=flat-square" alt="Co-Founder" />
     </td>
     <td align="center" width="25%">
@@ -245,7 +245,7 @@ Ektazept was founded by four Co-Founders working side by side. Listed in no part
       />
       <br /><br />
       <strong>Amjad<br />Hassan</strong>
-      <br />
+      <br /><br />
       <img src="https://img.shields.io/badge/Co--Founder-7c3aed?style=flat-square" alt="Co-Founder" />
     </td>
   </tr>
